@@ -1,0 +1,48 @@
+/*    Cleaner Gmail    */
+/*   Chrome Extension  */
+/*  by Travis Maynard  */
+/* www.alineofcode.com */
+
+/* Search The Web Button */
+.GcwpPb-uq0Mrf .J-Zh-I:nth-child(3) {display:none !important;}
+
+/* Invite A Friend Widget */
+.pY {display:none;}
+
+/* Chat */
+.pt {padding:0px;}
+
+/* Chat Search, Add, or Invite */
+.dH {display:block; padding:5px 0px 0px 0px !important;} /*dI, dG*/
+.dH input {width:163px;}
+
+/* Get Rid of Name After Chat Widget Is Expanded */
+.uF {display:none;}
+
+/* User Status */
+.uK {display:none;}
+.uk {padding:5px 0px 3px 0px !important;}
+.uJ {width:164px !important; margin:0px 0px 0px 0px;}
+
+/* Older & Oldest Buttons */
+.Di .e, .h0 .e {height:15px; color:#000 !important; text-decoration:none !important; font-weight:normal !important; padding:3px 8px; border-radius:3px; border:1px solid #BBB; border-top-color:#CCC; border-bottom-color:#A0A0A0; background:-webkit-gradient(linear,0% 40%,0% 70%,from(#F9F9F9),to(#E3E3E3)); display:inline-block; outline:none !important;}
+.Di .e:hover, .h0 .e:hover {border:1px solid #999;}
+.Di .e:active, .h0 .e:active {background:-webkit-gradient(linear,0% 40%,0% 70%,from(#E3E3E3),to(#F9F9F9)) !important; border:1px solid #333;}
+.vpUyzb {padding-top:0px !important;}
+.Di {margin:-3px 0px 0px 0px; overflow:hidden; display:block;}
+.iG {padding-top:0px !important;}
+
+/* Back To Inbox Button */
+.VP5otc-tOAp0c {height:15px; color:#000 !important; font-weight:normal !important; text-decoration:none !important; padding:3px 8px !important; margin-right:8px !important; border-radius:3px; border:1px solid #BBB; border-top-color:#CCC; border-bottom-color:#A0A0A0; background:-webkit-gradient(linear,0% 40%,0% 70%,from(#F9F9F9),to(#E3E3E3)); display:inline-block;}
+.VP5otc-tOAp0c:hover {border:1px solid #999;}
+.VP5otc-tOAp0c:active {background:-webkit-gradient(linear,0% 40%,0% 70%,from(#E3E3E3),to(#F9F9F9)) !important; border:1px solid #333;}
+
+/* Footer Cleanup */
+.l2 {opacity:0.2 !important;}
+.l2:hover {opacity:1.0 !important;}
+
+/* Details Link */
+.l6 .e {color:#000 !important;}
+
+/* Chat Window Header Height */
+.Hy .m, .Hy .n, .Hy .k {height:20px !important; padding:0px !important;}

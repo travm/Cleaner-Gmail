@@ -1,0 +1,15 @@
+{
+	"content_scripts": [ {
+      "all_frames": true,
+      "css": [ "main.css" ],
+      "matches": [ "http://mail.google.com/mail/*", "https://mail.google.com/mail/*" ]
+   	} ],
+	"name": "Cleaner Gmail",
+	"version": "2.1",
+	"description": "Removes & modifies areas of content in an effort to clean up and simplify Gmail. Gmail is a trademark of Google Inc.",
+	"icons": {
+		"16": "icon16.png",
+     	"48": "icon48.png",
+     	"128": "icon128.png"
+   }
+}
