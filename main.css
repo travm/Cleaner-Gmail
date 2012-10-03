@@ -1,5 +1,5 @@
 /*    Cleaner Gmail    */
-/*   Chrome Extension  */
+/*  Chrome Extension   */
 /*  by Travis Maynard  */
 /* www.alineofcode.com */
 
@@ -43,6 +43,7 @@
 
 /* Details Link */
 .l6 .e {color:#000 !important;}
+.l6 {padding-top:0px !important;}
 
 /* Chat Window Header Height */
 .Hy .m, .Hy .n, .Hy .k {height:20px !important; padding:0px !important;}

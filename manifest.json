@@ -1,5 +1,6 @@
 {
-	"content_scripts": [ {
+	"manifest_version": 2,
+  "content_scripts": [ {
       "all_frames": true,
       "css": [ "main.css" ],
       "matches": [ "http://mail.google.com/mail/*", "https://mail.google.com/mail/*" ]
