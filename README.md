@@ -3,4 +3,4 @@ Cleaner Gmail
 
 Chrome extension that removes & modifies areas of content in an effort to clean up and simplify Gmail.
 
-Note: This extension is quite dated, and luckily Gmail has since implemented a majority of the fixes that this extension was created to fix!
+__Note:__ This extension is quite dated. Luckily Gmail has since improved on most of the issues that this extension was created to fix!
